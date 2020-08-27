@@ -2,3 +2,4 @@
 *.out
 std
 *.zip
+.DS_Store
