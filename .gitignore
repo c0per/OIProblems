@@ -3,3 +3,4 @@
 std
 *.zip
 .DS_Store
+*.swp
